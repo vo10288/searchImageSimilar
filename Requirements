@@ -1,0 +1,7 @@
+pillow
+imagehash
+argparse
+os
+datetime
+time
+psutil
