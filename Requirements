@@ -1,3 +1,6 @@
+imutils
+cv2
+psutils
 pillow
 imagehash
 argparse
